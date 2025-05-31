@@ -15,6 +15,8 @@
  */
 #include QMK_KEYBOARD_H
 
+#include "keymap_eurkey.h"
+
 enum layers {
     _QWERTY = 0,
     _COLEMAK_DH,
